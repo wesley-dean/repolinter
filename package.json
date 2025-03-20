@@ -72,7 +72,7 @@
     "eslint-plugin-standard": "^5.0.0",
     "gh-pages": "^5.0.0",
     "markdown-toc": "^1.2.0",
-    "markdownlint": "^0.26.0",
+    "markdownlint": "^0.37.4",
     "mocha": "^10.0.0",
     "mock-http-server": "^1.4.2",
     "nyc": "^15.1.0",
