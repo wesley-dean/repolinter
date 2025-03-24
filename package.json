@@ -39,7 +39,7 @@
     "broken-link-checker": "^0.7.8",
     "chalk": "^4.1.0",
     "command-exists": "^1.2.9",
-    "emoji-regex": "^9.2.0",
+    "emoji-regex": "^10.4.0",
     "find-config": "^1.0.0",
     "gitlog": "^4.0.3",
     "is-windows": "^1.0.2",
